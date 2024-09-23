@@ -4,7 +4,7 @@
 #include <time.h>
 
 
-
+//измененно infoli
 
 int main()
 {
