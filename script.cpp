@@ -8,6 +8,7 @@
 
 int main()
 {
+	setlocale (LC_ALL, "Rus");
 	time_t start, end;
 	time(&start);
 	int n = 0;
